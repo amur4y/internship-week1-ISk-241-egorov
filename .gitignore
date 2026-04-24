@@ -1,0 +1,34 @@
+# Системные файлы Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Системные файлы macOS
+.DS_Store
+
+# Системные файлы Linux
+*~
+*.swp
+
+# Файлы IDE (VS Code)
+.vscode/
+
+# Файлы IDE (JetBrains)
+.idea/
+*.iml
+
+# Файлы IDE (Visual Studio)
+bin/
+obj/
+*.suo
+*.user
+
+# Временные файлы и логи
+*.log
+*.tmp
+tmp/
+temp/
+
+# Временные файлы Office
+~$*.docx
+~$*.xlsx
